@@ -1,9 +1,9 @@
 hello prarthana
 hello hello
-<<<<<<< HEAD
+
 Name:prarthana
 Very good girl 
-=======
+
 hello NIE how r u 
-good evening
->>>>>>> c41858c (Added student details with one more update)
+good morning
+age =18
